@@ -14,6 +14,7 @@ ERROR_CHANNEL=your-error-channel-id
 
 Run the bot:
 node index.js
+npm start
 
 join the Discord Channel:
 https://discord.gg/VdZBzJcnZn
